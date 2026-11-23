@@ -1,0 +1,20 @@
+# Python environments
+.venv/
+.venv-1/
+.venv-python39-backup/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
